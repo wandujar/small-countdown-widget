@@ -3,7 +3,7 @@ function countdown()
     var countdown_div = document.getElementById("countdown_id");
 
     var current_date = new Date();
-    var event_date = new Date("Mar 15 08:00:00 2015");
+    var event_date = new Date("Nov 19 16:20:00 2014");
     var total_seconds = (event_date - current_date) / 1000;
     var day_text = "days";
     var hour_text = "hours";
