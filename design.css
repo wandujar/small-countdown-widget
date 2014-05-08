@@ -1,0 +1,42 @@
+body
+{
+    margin: 0;
+    padding: 0 0 20px;
+    color: #666;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 18px; 
+    text-align: center
+}
+
+.countdown_widget
+{
+    background: -webkit-radial-gradient(#994641, #000000);
+    background: -moz-radial-gradient(#994641, #000000);
+    background: -o-radial-gradient(#994641, #000000);
+    background: -ms-radial-gradient(#994641, #000000);
+    background: radial-gradient(#994641, #000000);
+    box-shadow: 6px 6px 6px black;
+    border-radius : 6px; 
+    padding-top: 15px;
+    width: 260px;
+    height: 130px;
+    font-size: 30px;
+}
+
+.date_countdown
+{
+    width: 50px;
+    height: 45px;
+    margin-top: 25px;
+    margin-left: 7px;
+    margin-right: 7px;
+    background: -webkit-radial-gradient(#FFFFFF, #AAAAAA);
+    background: -moz-radial-gradient(#FFFFFF, #AAAAAA);
+    background: -o-radial-gradient(#FFFFFF, #AAAAAA);
+    background: -ms-radial-gradient(#FFFFFF, #AAAAAA);
+    background: radial-gradient(#FFFFFF, #AAAAAA);
+    border-radius : 6px; 
+    display: inline-block;
+    padding-top:8px;
+}
